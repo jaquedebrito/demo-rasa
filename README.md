@@ -1,3 +1,3 @@
 # demo-rasa
 
-https://mybinder.org/v2/gh/git@github.com:jaquedebrito/demo-rasa.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaquedebrito/demo-rasa.git/HEAD)
